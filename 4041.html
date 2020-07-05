@@ -8,17 +8,17 @@
     <script language="javascript">
         function fnPageClose() {
             i = i - 1
-            document.title = "页面" + i + "秒后关闭" + title;
+            document.title = "" + i + "" + title;
             if (i > 0) setTimeout("fnPageClose();", 1000);
             else self.close();
         }
-        var i = 1
+        var i = 10
         title = document.title;
         fnPageClose();
     </script>
-    <h1>受即将高考影响，<br>页面将于100秒后关闭</h1>
+    <h1></h1>
     <h2 style="color: white;font-size: 30px;background-color: black;"><i><strong>以信心应对考试，而非压力</strong></i></h2>
-    <a href="https://msecweb.github.io/ez/001.html">点击我继续跳转至首页</a>
+    <a href="https://msecweb.github.io/ez/001.html">=</a>
 </body>
 
 </html>
