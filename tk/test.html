@@ -78,12 +78,26 @@
         animation:myfirst 3s;
         }
 
+        .b1
+        {
+            width:70px;
+            height:30px;
+            color:white;
+            animation:mysecond 10s;
+        }
+
         @keyframes myfirst
         {
         0%  { transform: translate3d(0, 9000%, 0);color:white;}
         100% { transform: translate3d(0, 0, 0);color:black;}
         }
         
+        @keyframes mysecond
+        {
+        from {transform: translate3d(0,0,0);background:red;}
+        to   {transform: translate3d(1000%,0,0);background:blue;}
+
+        }
         </style>
 
 
@@ -99,11 +113,13 @@
 <title>please wait...</title>
 <h1>100 Continue</h1>
 <p>当你看到这段文字时，服务器已接收你的请求，请等待服务器的响应。</p>
-    <a class="a1" style="font-size:50px;" href="https://msecweb.github.io/shop">点我进浪里个浪的小卖铺（家境贫寒，这是广告）</a><br>
+    <!--<a class="a1" style="font-size:50px;" href="https://msecweb.github.io/shop">点我进浪里个浪的小卖铺（家境贫寒，这是广告）</a><br>-->
 <p class="a2" style="color:red;">TK专区正在调试和修改以打造一个<strong>更易懂的交互网站</strong>，10秒钟后将为你自动跳转至测试版网页。如果你想选择更稳定的旧版，请点击下方链接，<i>当然，旧版没有使用帮助，因此我们并不推荐您访问旧版。</i></p>
 <br>
 <a class="a3" href="https://msecweb.github.io/tk/oldindex.html">点我进入旧的稳定版网页</a>
 <br><br><hr><br><br>
+<div class="b1">剩余时间</div>
+<a>10s----------------7.5s-------------------------------5s---------------------------------2.5s-----------------0s</a>
 <h1 style="color:blue;">遇到问题，请及时联系作者QQ:3419536109 浪里个浪</h1>
 <h2 style="color:red;">修改日志</h2>
 <p class="a6">2020.9.26 修复了2020.9.23网址指向优化遗留下的致命404bug</p>
