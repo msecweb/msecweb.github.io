@@ -1,0 +1,33 @@
+@charset "utf-8";
+.articlesoursehigh {
+    color: #929292;
+    font-style: normal;
+}
+.articlebutton {
+    float: right;
+    width: auto;
+
+}
+.articlecard {
+    height: auto;
+
+}
+.div0 {
+    width: 1281px;
+    min-width: 1281px;
+
+}
+
+.div1 {
+    width: 1130x;
+
+}
+.div2 {
+    width: 143px;
+    border-radius: 19px;
+    height: 513px;
+    min-width: 143px;
+    min-height: 0px;
+    margin-top: 24px;
+    margin-left: 11px;
+}
