@@ -10,11 +10,19 @@
 }
 .articlecard {
     height: auto;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
 
 }
 .div0 {
-    width: 1281px;
+    width: 1260px;
     min-width: 1281px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
 
 }
 
@@ -24,10 +32,33 @@
 }
 .div2 {
     width: 143px;
-    border-radius: 19px;
     height: 513px;
     min-width: 143px;
     min-height: 0px;
-    margin-top: 24px;
-    margin-left: 11px;
+    background-color: #00FF14;
+    margin-left: 5px;
+}
+.round {
+    border-radius: 7px;
+}
+
+.header1 {
+    height: 288px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 961px;
+    background-image: url(../images/school.png);
+    background-repeat: no-repeat;
+}
+.centered {
+    margin-left: 577px;
+}
+.white {
+    color: #FFFFFF;
+}
+.body {
+    background-image: url(../images/ground.png);
+    max-width: 1800px;
 }
