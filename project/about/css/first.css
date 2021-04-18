@@ -26,23 +26,6 @@
     color: #B8B8B8;
 }
     div{float:left}
-.articlesoursehigh {
-    color: #929292;
-    font-style: normal;
-}
-.articlebutton {
-    float: right;
-    width: auto;
-
-}
-.articlecard {
-    height: auto;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-
-}
 .div0 {
     width: 1260px;
     min-width: 1281px;
@@ -54,7 +37,9 @@
 }
 
 .div1 {
-    width: 1130x;
+    width: 1130px;
+
+
 
 }
 .div2 {
@@ -68,30 +53,22 @@
 .round {
     border-radius: 7px;
 }
-
-.header1 {
-    height: 288px;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 10px;
-    margin-left: 0px;
-    width: 769px;
-    background-image: url(../images/school.png);
-    background-repeat: no-repeat;
-}
 .centered {
     margin-left: 577px;
 }
-.white {
-    color: #FFFFFF;
-}
 .body {
-    background-image: url(../images/block.png);
+    background-image: url(../../../images/block.png);
     max-width: 1800px;
 }
 .beta {
     text-decoration: underline;
     color: #ADADAD;
+}
+.h1 {
+    margin-left: 522px;
+}
+.ph {
+    margin-left: 81px;
 }
 .hh1 {
     font-size: 43px;
