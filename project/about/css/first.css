@@ -57,7 +57,7 @@
     margin-left: 577px;
 }
 .body {
-    background-image: url(../../../images/block.png);
+    background-image: url(../../images/block.png);
     max-width: 1800px;
 }
 .beta {
@@ -75,5 +75,5 @@
     margin-left: 548px;
 }
 .hh2 {
-    font-size: 39px;
+    font-size: 35px;
 }
