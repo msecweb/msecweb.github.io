@@ -77,7 +77,7 @@
     margin-bottom: 10px;
     margin-left: 0px;
     width: 769px;
-    background-image: url(../../project/images/school.png);
+    background-image: url(../../Clock/images/school.png);
     background-repeat: no-repeat;
 }
 .centered {
@@ -87,7 +87,7 @@
     color: #FFFFFF;
 }
 .body {
-    background-image: url(../../project/images/block.png);
+    background-image: url(../../Clock/images/block.png);
     max-width: 1800px;
 }
 .beta {
