@@ -1,0 +1,31 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #009BFF;
+    height: 123px;
+    font-style: normal;
+    font-weight: 400;
+    color: #FFFFFF;
+    flex-wrap: wrap;
+	
+}/* CSS Document */
+
+.hh1 {
+    font-size: 43px;
+    margin-left: 33px;
+}
+.hh2 {
+    font-size: 30px;
+    margin-left: 32px;
+    font-style: normal;
+    font-weight: 200;
+}
+
+.hh3 {
+    float: right;
+    font-size: 29px;
+    margin-right: 20px;
+
+
+
+}
