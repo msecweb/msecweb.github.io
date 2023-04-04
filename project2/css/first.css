@@ -1,0 +1,114 @@
+@charset "utf-8";
+.header {
+    background-color: #009BFF;
+    min-width: 60px;
+    height: 123px;
+    font-style: normal;
+    width: 1303px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.p1 {
+    font-size: xx-large;
+}
+.p1d {
+    text-align: right;
+}
+.articlesourse {
+    font-weight: 900;
+    color: #B8B8B8;
+    width: auto;
+}
+    div{float:left}
+.articlesoursehigh {
+    color: #929292;
+    font-style: normal;
+}
+.articlebutton {
+    float: right;
+    width: auto;
+
+}
+.articlecard {
+    height: 435px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 363px;
+
+}
+.div0 {
+    width: 1260px;
+    min-width: 1281px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+}
+
+.div1 {
+    width: 1127px;
+
+}
+.div2 {
+    width: 143px;
+    height: 1358px;
+    min-width: 143px;
+    min-height: 0px;
+    background-color: #00FF14;
+    margin-left: 5px;
+}
+.round {
+    border-radius: 7px;
+}
+
+.header1 {
+    height: 288px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    width: 769px;
+    background-image: url(../images/school.png);
+    background-repeat: no-repeat;
+}
+.centered {
+    margin-left: 577px;
+}
+.white {
+    color: #FFFFFF;
+}
+.body {
+    background-image: url(../images/block.png);
+    max-width: 1800px;
+}
+.beta {
+    text-decoration: underline;
+    color: #ADADAD;
+}
+.hh1 {
+    font-size: 43px;
+    margin-left: 33px;
+}
+.hh2 {
+    font-size: 30px;
+    margin-left: 32px;
+    font-style: normal;
+    font-weight: 200;
+}
+.articlecardpicture {
+    margin-top: 17px;
+}
+.a-center {
+    text-align: center;
+    width: 0px;
+}
+.hh3 {
+    float: right;
+    font-size: 29px;
+    margin-right: 20px;
+
+
+
+}
