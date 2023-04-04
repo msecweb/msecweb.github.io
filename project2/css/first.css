@@ -30,17 +30,13 @@
 
 }
 .div0 {
-    width: 1260px;
-    min-width: 1281px;
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    width: 1030px;
+
+
 
 }
 
 .div1 {
-    flex: 70%;
     margin-top: 5px;
     margin-right: 5px;
     margin-bottom: 5px;
@@ -50,11 +46,12 @@
 }
 .div2 {
     background-color: #00FF14;
-    flex: 30%;
     margin-top: 5px;
     margin-right: 5px;
     margin-bottom: 5px;
     margin-left: 5px;
+    width: 220px;
+    text-align: center;
 }
 .round {
     border-radius: 7px;
@@ -77,7 +74,8 @@
     color: #FFFFFF;
 }
 .body {
-    background-color: #D2D2D2;
+    background-color: #DCDCDC;
+
 
 }
 .beta {
@@ -91,4 +89,8 @@
 .a-center {
     text-align: center;
     width: 0px;
+}
+.icon {
+    max-width: 50px;
+    max-height: 50px;
 }
