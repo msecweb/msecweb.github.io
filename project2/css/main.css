@@ -6,6 +6,8 @@
 .p1d {
     text-align: right;
 }
+
+/*文章卡片*/
 .articlesourse {
     font-weight: 900;
     color: #B8B8B8;
@@ -29,24 +31,23 @@
     width: 363px;
 
 }
-.div0 {
+
+/*正文*/
+.main0 {
     width: 1030px;
-
-
 
 }
 
-.div1 {
+.main1 {
     margin-top: 5px;
     margin-right: 5px;
     margin-bottom: 5px;
     margin-left: 5px;
     flex-direction: row;
-    display: flex;
 
 
 }
-.div2 {
+.main2 {
     background-color: #00FF14;
     margin-top: 5px;
     margin-right: 5px;
@@ -55,10 +56,12 @@
     width: 220px;
     text-align: center;
 }
-.round {
-    border-radius: 7px;
-}
 
+
+/*头图*/
+.header1_text {
+    color: #FFFFFF;
+}
 .header1 {
     background-image: url(../images/ground.png);
     background-repeat: no-repeat;
@@ -70,21 +73,12 @@
     background-size: cover;
     margin-top: 10px;
 }
-.centered {
-    margin-left: 577px;
-}
-.white {
-    color: #FFFFFF;
-}
+
+
 .body {
     background-color: #DCDCDC;
-
-
 }
-.beta {
-    text-decoration: underline;
-    color: #ADADAD;
-}
+
 
 .articlecardpicture {
     margin-top: 17px;
@@ -97,12 +91,13 @@
     max-width: 100px;
     max-height: 40px;
 }
-.header1_text {
-    color: #FFFFFF;
-}
+
 
 .large_icon {
 	align-self: center;
     max-width: 100px;
     max-height: 100px;
+}
+.round {
+    border-radius: 7px;
 }
