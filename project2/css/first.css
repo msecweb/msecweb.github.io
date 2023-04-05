@@ -68,6 +68,7 @@
     justify-content: center;
     max-height: 281px;
     background-size: cover;
+    margin-top: 10px;
 }
 .centered {
     margin-left: 577px;
@@ -93,6 +94,15 @@
     width: 0px;
 }
 .icon {
-    max-width: 50px;
-    max-height: 50px;
+    max-width: 100px;
+    max-height: 40px;
+}
+.header1_text {
+    color: #FFFFFF;
+}
+
+.large_icon {
+	align-self: center;
+    max-width: 100px;
+    max-height: 100px;
 }
