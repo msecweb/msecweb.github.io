@@ -101,3 +101,7 @@
 .round {
     border-radius: 7px;
 }
+.blur {
+    -webkit-box-shadow: 0px 0px 42px;
+    box-shadow: 0px 0px 42px;
+}
