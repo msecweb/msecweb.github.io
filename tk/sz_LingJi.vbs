@@ -12,5 +12,5 @@ i.terminate()
 
 next
 
-wscript.sleep 3000
+wscript.sleep 1
 loop
