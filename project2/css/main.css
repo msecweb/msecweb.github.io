@@ -61,17 +61,17 @@
 /*头图*/
 .header1_text {
     color: #FFFFFF;
+    text-shadow: 3px 3px 2px #009BFF;
 }
 .header1 {
-    background-image: url(../images/ground.png);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     align-self: center;
     justify-content: center;
-    max-height: 281px;
     background-size: cover;
     margin-top: 10px;
+    max-height: 200px;
 }
 
 
